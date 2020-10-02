@@ -1,0 +1,78 @@
+[
+    {
+        "1": "What is the synonym of awful?",
+        "2": "What is the synonym of huge?",
+        "3": "What is the synonym of Approach?",
+        "4": "What is the synonym of Frosty?",
+        "5": "What is the synonym of Hooked?", 
+        "6": "What is the synonym of Tranquil?",
+        "7": "What is the synonym of Bawl?",
+        "8": "What is the synonym of Gloomy?",
+        "9": "What is the synonym of Hazardous?",
+        "10": "What is the synonym of Demolish?"
+    },
+    {
+        "1": {
+            "a": "dreadful",
+            "b": "hateful",
+            "c": "foolish"
+        },
+        "2": {
+            "a": "sized",
+            "b": "doubled",
+            "c": "immense"
+        },
+        "3": {
+            "a": "come",
+            "b": "march",
+            "c": "fall-out"
+        },
+        "4": {
+            "a": "wind",
+            "b": "frigid",
+            "c": "winter"
+        },
+        "5": {
+            "a": "reversed",
+            "b": "crooked",
+            "c": "cornered"
+        },
+        "6": {
+            "a": "concentrated",
+            "b": "meditate",
+            "c": "quiet"
+        },
+        "7": {
+            "a": "cry",
+            "b": "fight",
+            "c": "win"
+        },
+        "8": {
+            "a": "dark",
+            "b": "sticky",
+            "c": "ghost"
+        },
+        "9": {
+            "a": "rational",
+            "b": "perilous",
+            "c": "supreme"
+        },
+        "10": {
+            "a": "terrible",
+            "b": "endanger",
+            "c": "wreck"
+        }
+    },
+    {
+        "1": "dreadful",
+        "2": "immense",
+        "3": "come",
+        "4": "frigid",
+        "5": "crooked",
+        "6": "quiet",
+        "7": "cry",
+        "8": "dark",
+        "9": "perilous",
+        "10": "wreck"
+    }
+]

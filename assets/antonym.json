@@ -1,0 +1,78 @@
+[
+    {
+        "1": "What is the antonym of advanced?",
+        "2": "What is the antonym of body?",
+        "3": "What is the antonym of foreground?",
+        "4": "What is the antonym of drama?",
+        "5": "What is the antonym of compulsory?", 
+        "6": "What is the antonym of consonant?",
+        "7": "What is the antonym of boring?",
+        "8": "What is the antonym of moderate?",
+        "9": "What is the antonym of occasionally?",
+        "10": "What is the antonym of flat?"
+    },
+    {
+        "1": {
+            "a": "understandable",
+            "b": "elementary",
+            "c": "tempered"
+        },
+        "2": {
+            "a": "soul",
+            "b": "skin",
+            "c": "essence"
+        },
+        "3": {
+            "a": "windowed",
+            "b": "background",
+            "c": "underground"
+        },
+        "4": {
+            "a": "real",
+            "b": "obidient",
+            "c": "comedy"
+        },
+        "5": {
+            "a": "voluntary",
+            "b": "mandatory",
+            "c": "agreement"
+        },
+        "6": {
+            "a": "vowel",
+            "b": "phonetics",
+            "c": "language"
+        },
+        "7": {
+            "a": "interesting",
+            "b": "invigorate",
+            "c": "advanced"
+        },
+        "8": {
+            "a": "extreme",
+            "b": "hard",
+            "c": "violent"
+        },
+        "9": {
+            "a": "rational",
+            "b": "periodically",
+            "c": "frequently"
+        },
+        "10": {
+            "a": "tall",
+            "b": "hilly",
+            "c": "big"
+        }
+    },
+    {
+        "1": "elementary",
+        "2": "soul",
+        "3": "background",
+        "4": "comedy",
+        "5": "voluntary",
+        "6": "vowel",
+        "7": "interesting",
+        "8": "extreme",
+        "9": "frequently",
+        "10": "hilly"
+    }
+]
